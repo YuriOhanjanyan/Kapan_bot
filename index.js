@@ -1,7 +1,7 @@
 const TelegramBot = require('node-telegram-bot-api')
 const express = require('express')
 require('dotenv').config()
-const token = process.env.TOKEN
+const token = "7206339129:AAG-w3NJU0wLdQZL1wNgXgh78DDv7OdcxAE"
 
 const app = express()
 const port = process.env.PORT || 4000;
